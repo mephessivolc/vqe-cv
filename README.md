@@ -1,2 +1,2 @@
 # VQE CV
-Algorithm  for VariationaL Quantum Eignesolver from Continuous Variables
+Algorithm  for Variational Quantum Eignesolver from Continuous Variables
